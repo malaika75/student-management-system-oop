@@ -1,0 +1,20 @@
+{
+  "name": "malaika560-student--management-system---",
+  "version": "1.0.1",
+  "description": "This is a student management system project",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Malaika zahid",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
